@@ -1,0 +1,9 @@
+
+1.Ctrl+Gと同じように選択されたノードをグループ化する。
+2.グループ名を「fromPythonScript」とかスクリプトによって作成された。とわかりやすい名前に変更する。
+3.一旦保存の後、blenderファイルを別名で保存「forScript.blend」とか。
+4.3で最初に保存したblendファイルを開く。
+
+【使いまわしたい方のblendファイルの動作】
+1.ファイル→Appendをクリックし、forScript.blendを選択。Materialフォルダを選ぶ
+2.
